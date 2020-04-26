@@ -12,9 +12,9 @@ The increasing pollution and excessive use of devices leading us to rooms filled
 - Works 24/7
 - OpenSource
 
-###The Team Behind the project
+### The Team Behind the project
 > Abhay Nigam
 > Rahul Goswami
 
-###Circuit Diagram
+### Circuit Diagram
 ![Circuit](https://i.imgur.com/7R4ESjp.png "Circuit")
